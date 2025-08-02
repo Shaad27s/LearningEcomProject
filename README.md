@@ -60,3 +60,14 @@ This is a beginner-level Spring Boot project that simulates a simple E-commerce 
 ```bash
 git clone https://github.com/Shaad27s/ecomm-springboot-api.git
 cd ecomm-springboot-api
+
+
+## 🧾 License
+
+This project is open-source and free to use.
+
+---
+
+## 👤 Author
+
+Made by [Shaad27s](https://github.com/Shaad27s)
